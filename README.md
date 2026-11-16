@@ -1,4 +1,4 @@
-# CFC Treino (v1.8)
+# CFC Treino (v1.9)
 
 App de estudo offline para o Exame de Suficiência do CFC (prova em 13/12/2026): 293 questões oficiais (FGV/CFC 2024.1–2026.2) com explicações, 50 questões autorais, simulados, Foco no peso, guia e fórmulas rápidas.
 
